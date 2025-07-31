@@ -1,2 +1,3 @@
 # Billiard-Game
 A Billiard video game made with Python, Pygame and Pymunk
+There is a folder Used for the Pictures of the Game, one for used highscores and saved seetings and one for the Sounds. The main file is the actual_game.py, which controls which file is going to be projected to the user. Through the game_menu the user can change settings, view the highscores, the tutorial of the game, or start a game. There are 4 types of games, 8-BALL, 9-BALL, Snooker and French billiards, that follows each game's rules. There is also option to select freeplay-practice, so the player is not affected by any rules, penalties or unwanted Oame Over, and PVP, a two-player mode for local multiplayer.
